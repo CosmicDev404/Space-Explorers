@@ -10,7 +10,7 @@
 - Align the orientation of your rocket to the suggested angle to land on the selected planet. You will see the distane decreasing if done correctly.
 
   
-<p align=right> <img width="311" 
+<p align=center> <img width="311" 
 height="552" alt="BOOSTERENGINEwithfire" src="https://github.com/user-attachments/assets/caf2f40f-86df-4955-b7f1-3a6338c043ea" /> </p>
 
 - The fuel panel & acceleration meters are shown on either sides of your screen, vertically.
