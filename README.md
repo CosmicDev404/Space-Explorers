@@ -1,6 +1,11 @@
-**Space Explorers** is a pygame based simulator that employees the basic physical concepts of real world aerospace engineering. This simulator includes 5 planets and basic rocket parts. You can get creative and make your own rockets to advance in an adventourous cosmic expedition, but be carefull of weight and fuel balance. 
+# **Space Explorers** 
+It is a **pygame** based simulator that employees the basic physical concepts of real world aerospace engineering. This simulator includes 5 planets and basic rocket parts. You can get creative and make your own rockets to advance in an adventourous cosmic expedition, but be carefull of weight and fuel balance. 
+
+---
 
 <p align=center><img width="181" height="181" alt="CAPSULE" src="https://github.com/user-attachments/assets/b40455eb-c5c8-4dec-b276-fa9201e29980"/> </p>
+
+## Instructions 🎮
 
  - Use _WS_ keys to control the acceleration and _AD_ keys for orientation. Above a certain altitude, you will be able to access the map of solar system. In the map, click on the planet you wish to explore. 
 
