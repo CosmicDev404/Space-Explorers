@@ -1,5 +1,5 @@
 # **Space Explorers** 
-It is a **pygame** based simulator that employees the basic physical concepts of real world aerospace engineering. This simulator includes 5 planets and basic rocket parts. You can get creative and make your own rockets to advance in an adventourous cosmic expedition, but be carefull of weight and fuel balance. 
+It is **pygame** based simulator that employs basic physical concepts of real world aerospace engineering. This simulator includes 5 planets and basic rocket parts. You can get creative and make your own rockets to advance in an adventourous cosmic expedition, but be carefull of weight and fuel balance. 
 
 ---
 
