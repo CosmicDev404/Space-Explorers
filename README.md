@@ -9,7 +9,8 @@ It is **pygame** based simulator that employs basic physical concepts of real wo
 <img align=right width=40% alt="MARS" src="https://github.com/user-attachments/assets/a107769f-1ddf-402a-b4bd-89a75680b62e">
 
 - Install all the files in same folder/directory.
-- Directly run the .exe file for Windows or .py file in an IDE or similar environment 
+- Import the files in a suitable IDE like VS code and execute _"Space Explorers.py"_
+- The files can also be converted into an .exe via _auto_py_to_exe_
 
 ## Instructions 🎮
 
